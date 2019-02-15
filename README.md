@@ -10,6 +10,8 @@ Why Trust the Machine?
 
 [Visual interpretability for deep learning FITEE 2018](https://arxiv.org/abs/1802.00614)
 
+[CNN with BOF ICLR 2019](https://openreview.net/pdf?id=SkfMWhAqYQ)
+
 
 ## Tutorial
 

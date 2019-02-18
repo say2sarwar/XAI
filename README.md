@@ -16,3 +16,6 @@ Why Trust the Machine?
 ## Tutorial
 
 [New Theory Cracks Open the Black Box of Deep Learning](https://www.quantamagazine.org/new-theory-cracks-open-the-black-box-of-deep-learning-20170921/)
+
+
+[A Quick Introduction to Deep Taylor Decomposition](http://www.heatmapping.org/deeptaylor/)

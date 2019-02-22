@@ -19,3 +19,9 @@ Why Trust the Machine?
 
 
 [A Quick Introduction to Deep Taylor Decomposition](http://www.heatmapping.org/deeptaylor/)
+
+
+
+## Books
+
+[Deep Learning by GoodFellow 2016](https://www.deeplearningbook.org/)

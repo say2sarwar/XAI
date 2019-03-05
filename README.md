@@ -24,6 +24,8 @@ Why Trust the Machine?
 
 [A Quick Introduction to Deep Taylor Decomposition](http://www.heatmapping.org/deeptaylor/)
 
+[The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks/)
+
 
 
 ## Books

@@ -14,6 +14,8 @@ Why Trust the Machine?
 
 [Visual interpretability for deep learning FITEE 2018](https://arxiv.org/abs/1802.00614)
 
+[AMI](https://papers.nips.cc/paper/7998-attacks-meet-interpretability-attribute-steered-detection-of-adversarial-samples.pdf)
+
 [CNN with BOF ICLR 2019](https://openreview.net/pdf?id=SkfMWhAqYQ)
 
 
